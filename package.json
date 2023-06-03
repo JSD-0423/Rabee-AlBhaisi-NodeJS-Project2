@@ -1,0 +1,29 @@
+{
+  "name": "rabee-albhaisi-nodejs-project2",
+  "version": "1.0.0",
+  "description": "My second porject at TAP!!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSD-0423/Rabee-AlBhaisi-NodeJS-Project2.git"
+  },
+  "keywords": [
+    "HTML",
+    "Server",
+    "project2"
+  ],
+  "author": "Rabee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSD-0423/Rabee-AlBhaisi-NodeJS-Project2/issues"
+  },
+  "homepage": "https://github.com/JSD-0423/Rabee-AlBhaisi-NodeJS-Project2#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "nodemon": "^2.0.22"
+  }
+}
